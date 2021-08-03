@@ -1,4 +1,3 @@
 # README
-===
 
-"This is an amazing project"
+This is an amazing project
